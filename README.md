@@ -18,4 +18,4 @@ in the shape of a triangular prism, a hexagonal prism or a cube.
 
 In order to start the program you have to open Framework_EGC.sln(which is located
 in the Visual Studio folder) and compile the program.The sources are located
-in the Source/BrickBreaker folder.
+in the Source/CityProceduralGen folder.
