@@ -14,6 +14,10 @@ RoadGen* roadgen;
 std::vector<Building*> buildings;
 int buildingsCount = 0;
 
+/*You can move around the city by holding down the right mouse button
+and by using the WASD keys, and the Q and E buttons for moving on the
+vertical axis.*/
+
 int height = 25, width = 25, maxTunnels = 125, maxLength = 13;
 /*parameters used by Roadgen in order to proceduraly generate the Roads*/
 
